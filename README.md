@@ -30,8 +30,6 @@ O site foi criado como uma plataforma para:
 
 3. Ou apenas abra pelo Vercel através do link: "https://explorando-o-codigo.vercel.app"
 
-4. Divirta-se buscando jogos!
-
 ## 🦸‍♂️ Autor
 
 Criado por **Rodrigo Guerreiro**! 💻
