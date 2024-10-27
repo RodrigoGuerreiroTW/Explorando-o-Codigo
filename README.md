@@ -36,7 +36,7 @@ O site foi criado como uma plataforma para:
 
 Criado por **Rodrigo Guerreiro**! 💻
 
-Se tiver sugestões ou melhorias, fique à vontade para abrir uma issue ou enviar um pull request. Vamos melhorar esse repertório juntos! 🚀
+Se tiver sugestões ou melhorias, fique à vontade para abrir uma issue ou enviar um pull request. Vamos melhorar esse repositório juntos! 🚀
 
 ---
 
