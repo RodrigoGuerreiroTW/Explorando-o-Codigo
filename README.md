@@ -1,4 +1,4 @@
-# Explorando-o-Codigo
+# Explorando-o-Código
 
 # Meu Portfólio de Aprendizado em Desenvolvimento Web
 
