@@ -23,7 +23,7 @@ O site foi criado como uma plataforma para:
 1. Clone este repositório ou faça download dos arquivos.
    
    ```bash
-   git clone https://github.com/seu-usuario/biblioteca-de-jogos.git
+   git clone https://github.com/RodrigoGuerreiroTW/Explorando-o-Codigo/tree/main
    ```
 
 2. Abra o arquivo `index.html` diretamente no seu navegador.
