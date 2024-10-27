@@ -28,7 +28,7 @@ O site foi criado como uma plataforma para:
 
 2. Abra o arquivo `index.html` diretamente no seu navegador.
 
-3. Ou apenas abra pelo Vercel através do link: "https://biblioteca-lovat.vercel.app/"
+3. Ou apenas abra pelo Vercel através do link: "https://explorando-o-codigo.vercel.app"
 
 4. Divirta-se buscando jogos!
 
